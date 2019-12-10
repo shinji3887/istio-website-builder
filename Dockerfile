@@ -1,1 +1,1 @@
-FROM gcr.io/istio-testing/website-builder:2019-05-03
+FROM gcr.io/istio-testing/build-tools:master-2019-12-05T22-22-12
