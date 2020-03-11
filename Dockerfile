@@ -1,1 +1,1 @@
-FROM gcr.io/istio-testing/build-tools:master-2019-12-05T22-22-12
+FROM gcr.io/istio-testing/build-tools:master-2020-02-14T13-09-14
